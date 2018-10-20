@@ -1,0 +1,4 @@
+acu,global_min,global_max,phase_min,phase_max
+acu1,1,10,,
+acu2,2,11,5,8
+acu3,3,12,6,9
